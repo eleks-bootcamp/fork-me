@@ -1,1 +1,2 @@
 # Expectations
+Сподіваюся освоїти JavaScript. 
