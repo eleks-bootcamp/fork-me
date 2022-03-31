@@ -8,3 +8,6 @@
 * Далі додай зміни за допомогою команд `git add` та `git commit`
 * Відправ зміни в свій форк за допомогою команди `git push`
 * Створи PR до цього репозиторія <https://github.com/eleks-bootcamp/fork-me/edit/main/README.md>
+
+
+update to create a PR
