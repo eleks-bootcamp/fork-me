@@ -1,1 +1,1 @@
-# Expectations
+# Expectations - "мішок" знань)
