@@ -10,5 +10,6 @@
 <li>навчитись працювати в команді</li>
 <li>потрапити на наступний Eleks Bootcamp</li>
 <li>отримати job offer на позицію Trainee Frontend Developer</li>
-<li>розробити власний додаток</li>
+<li>розробити власний додаток)</li>
+
 </ul>
