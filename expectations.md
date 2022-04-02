@@ -1,1 +1,4 @@
 # Expectations
+
+education
+search job
