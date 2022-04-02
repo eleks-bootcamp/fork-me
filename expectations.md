@@ -1,2 +1,3 @@
 # Expectations
-Привіт! Очікую від курсу нових знань, можливості не тільки верстати сайти, але й могти робити сайт активним за допомогою Java Script. 
+Hello! I want to study not HTML/CSS, but I want to know js very well !
+Thank you for your job 
