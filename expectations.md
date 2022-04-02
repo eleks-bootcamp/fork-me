@@ -1,1 +1,2 @@
-# Expectations
+# My expectations from this course 
+Планую підтягнути необхідні знання та навички, щоб отримати Тріні\Джун JS позицію в компанії 
