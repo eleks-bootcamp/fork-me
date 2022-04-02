@@ -1,2 +1,2 @@
 # Expectations
-learn how to structure html and css code correctly
+learn how to structure HTML and CSS code correctly
