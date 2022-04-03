@@ -1,2 +1,2 @@
 # Expectations
-to get the Fundamentals of Js
+to learn JS Fundamentals
