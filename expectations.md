@@ -1,9 +1,5 @@
 # Expectations
+Робота в сфері ІТ є давньою мрією, тому на курсі планую прикласти усіх зусиль у навчанні з програмування HTML, CSS та JavaScript.
+Курс є доволі цікавим, думаю позитивний результат гарантується.
 
-Hello World
-
-foo bar
-
-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
-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@https://github.com/dmytro2910/fork-me.git
 
