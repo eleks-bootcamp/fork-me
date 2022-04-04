@@ -10,3 +10,4 @@
 * Створи PR до цього репозиторія <https://github.com/eleks-bootcamp/fork-me/edit/main/README.md>
 All done!!!!
 Пушнула изменения с компа
+C отдаленного компа на мой комп. надо обновить инфу на локальном
