@@ -4,3 +4,7 @@ Super
 Top
 Cool
 New comments
+Help me
+Please
+I dont know
+kmkdfvfv
