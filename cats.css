@@ -1,0 +1,11 @@
+h1 {
+  outline: 3px solid blue;
+}
+a { 
+  outline: 1px solid blue;
+  font-style: italic;
+  color: black;
+}
+div {
+  outline: 1px solid red;
+}
