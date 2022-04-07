@@ -3,3 +3,4 @@
 ДІзнатися щось нове
 hello world
 foo bar
+lock
