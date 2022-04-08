@@ -1,1 +1,4 @@
 # Expectations
+Привіт
+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
+https://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@github.com/LiliaSt/fork-me.git
