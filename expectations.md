@@ -1,2 +1,2 @@
 # Expectations
-Hello Andrey
+Hello
