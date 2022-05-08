@@ -7,3 +7,6 @@
 * grow my skills
 * create portfolio for future employ
 * meet good peoples
+*07.05
+
+
