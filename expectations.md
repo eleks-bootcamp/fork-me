@@ -8,7 +8,10 @@
 * create portfolio for future employ
 * meet good peoples
 *07.05
+<<<<<<< HEAD
 11223123
 
+=======
+>>>>>>> main
 
 
